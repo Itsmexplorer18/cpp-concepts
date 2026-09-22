@@ -1,5 +1,5 @@
 #ifndef logger_h
-#define lohher_h
+#define logger_h
 
 #include <string>
 using namespace std;
